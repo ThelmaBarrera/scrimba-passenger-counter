@@ -1,0 +1,45 @@
+body{
+	background-image: url(scrimbatrainstation.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.info{
+	font-family: Montserrat, sans-serif;
+	color: white;
+	padding: 10em;
+	justify-content: center;
+	
+}
+
+
+h2{
+	font-size: 9em;
+}
+
+.botones{
+	display: inline-flex;
+	flex-direction: row;
+	
+}
+button{
+	padding: 2em;
+	margin-left: 50%;
+	margin-right: 50%;
+	font-family: Montserrat, sans-serif;
+	background-color: darkred;
+	border-radius: 10%;
+	color: white;
+
+}
+
+.save{
+	font-family: Montserrat, sans-serif;
+	color: white;
+	text-align: center;
+	background-color: black;
+	padding: 2em;
+	border-radius: 15%;
+	margin-top: 2em;
+}
